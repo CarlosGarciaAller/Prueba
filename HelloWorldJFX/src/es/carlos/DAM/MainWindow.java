@@ -13,7 +13,7 @@ public class MainWindow extends Application {
         Label label = new Label("Hola mundo");
         Scene scene = new Scene(label, 100, 100);
         stage.setScene(scene);
-        stage.show();
+        //stage.show();
     }
 
     public static void main (String args[]) {
